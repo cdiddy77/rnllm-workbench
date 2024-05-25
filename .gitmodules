@@ -1,0 +1,9 @@
+[submodule "subs/llama.rn"]
+	path = subs/llama.rn
+	url = https://github.com/cdiddy77/llama.rn.git
+[submodule "subs/onnxruntime"]
+	path = subs/onnxruntime
+	url = https://github.com/cdiddy77/onnxruntime.git
+[submodule "subs/react-native-llm-mediapipe"]
+	path = subs/react-native-llm-mediapipe
+	url = https://github.com/cdiddy77/react-native-llm-mediapipe.git
